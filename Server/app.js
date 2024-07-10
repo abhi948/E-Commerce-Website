@@ -13,7 +13,7 @@ app.use(express.json()); //for parsing of data into the json
 
 dotenv.config();
 
-const port = process.env.PORT;
+const port = process.env.PORT;  //create .env file and add your own url into it
 const uri = process.env.mongoURI;
 try {
   mongoose.connect(uri);
