@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "name": "Bags",
+        "title": "lorem",
+        "price": 10,
+        "category": "bags",
+        "image": "https://i.pinimg.com/564x/b1/81/76/b181768b173234114cdeb7a72c47b097.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Handcrafted Necklace",
+        "title": "Beautiful handcrafted necklace",
+        "price": 15,
+        "category": "jewelry",
+        "image": "https://i.pinimg.com/564x/b1/81/76/b181768b173234114cdeb7a72c47b097.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Woolen Scarf",
+        "title": "Cozy woolen scarf",
+        "price": 20,
+        "category": "clothing",
+        "image": "https://i.pinimg.com/564x/b1/81/76/b181768b173234114cdeb7a72c47b097.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Ceramic Vase",
+        "title": "Handmade ceramic vase",
+        "price": 25,
+        "category": "home decor",
+        "image": "https://i.pinimg.com/564x/b1/81/76/b181768b173234114cdeb7a72c47b097.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Leather Wallet",
+        "title": "Genuine leather wallet",
+        "price": 30,
+        "category": "accessories",
+        "image": "https://i.pinimg.com/564x/b1/81/76/b181768b173234114cdeb7a72c47b097.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Wooden Bowl",
+        "title": "Handcrafted wooden bowl",
+        "price": 35,
+        "category": "kitchenware",
+        "image": "https://i.pinimg.com/564x/b1/81/76/b181768b173234114cdeb7a72c47b097.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Cotton Shirt",
+        "title": "Comfortable cotton shirt",
+        "price": 40,
+        "category": "clothing",
+        "image": "https://i.pinimg.com/564x/b1/81/76/b181768b173234114cdeb7a72c47b097.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Handwoven Basket",
+        "title": "Eco-friendly handwoven basket",
+        "price": 45,
+        "category": "home decor",
+        "image": "https://i.pinimg.com/564x/b1/81/76/b181768b173234114cdeb7a72c47b097.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Artisan Soap",
+        "title": "Natural artisan soap",
+        "price": 5,
+        "category": "beauty",
+        "image": "https://i.pinimg.com/564x/b1/81/76/b181768b173234114cdeb7a72c47b097.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Pottery Mug",
+        "title": "Handcrafted pottery mug",
+        "price": 12,
+        "category": "kitchenware",
+        "image": "https://i.pinimg.com/564x/b1/81/76/b181768b173234114cdeb7a72c47b097.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Knitted Blanket",
+        "title": "Warm Knitted Blanket",
+        "price": 50,
+        "category": "home decor",
+        "image": "https://i.pinimg.com/564x/b1/81/76/b181768b173234114cdeb7a72c47b097.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Beaded Bracelet",
+        "title": "Colorful beaded bracelet",
+        "price": 8,
+        "category": "jewelry",
+        "image": "https://i.pinimg.com/564x/b1/81/76/b181768b173234114cdeb7a72c47b097.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Hand-painted Plate",
+        "title": "Unique hand-painted plate",
+        "price": 22,
+        "category": "kitchenware",
+        "image": "https://i.pinimg.com/564x/b1/81/76/b181768b173234114cdeb7a72c47b097.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Fabric Tote Bag",
+        "title": "Durable fabric tote bag",
+        "price": 18,
+        "category": "bags",
+        "image": "https://i.pinimg.com/564x/b1/81/76/b181768b173234114cdeb7a72c47b097.jpg"
+    }
+]
